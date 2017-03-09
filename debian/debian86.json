@@ -57,6 +57,7 @@
             "scripts": [
                 "scripts/update.sh",
                 "scripts/cloud-init.sh",
+                "scripts/enable-console.sh",
                 "scripts/cleanup.sh"
             ]
         }
